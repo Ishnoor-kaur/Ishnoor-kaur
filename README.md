@@ -1,8 +1,8 @@
 <div align="center">
-<h1 align="center">Hi(gh five) <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Ishnoor</h1>
+<h1 align="center">Hi(gh five) <img width="35" src="https://github.com/Ishnoor-kaur/Ishnoor-kaur/blob/main/assests/high-five-w-bg.png">, I'm Ishnoor</h1>
 <h4 align="center">a developer, coder, and also an engineering student</h4>
 </div>
-
+<hr>
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"

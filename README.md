@@ -1,13 +1,16 @@
 <div align="center">
 <h1 align="center">Hi(gh five) <img width="35" src="https://github.com/Ishnoor-kaur/Ishnoor-kaur/blob/main/assests/high-five-w-bg.png">, I'm Ishnoor</h1>
-<h4 align="center">a developer, coder, and also an engineering student</h4>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Coder;Developer;CS+Student;Designer;Prankster+(hehe)&font=Fira%20Code&center=true&width=380&height=50"></a>
+</p>
 </div>
 <hr>
-<div align="center">
-  <a href="https://Ishnoor-kaur.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+## About me ::exc
+
+<br>
+
+## Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishnoor-kaur&theme=nightowl" alt="Ishnoor-kaur" /></p>
 
 
 <!--

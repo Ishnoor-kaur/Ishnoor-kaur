@@ -53,7 +53,14 @@
 <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
 <br>
 <br />
-
+  
+<h2 align="left">Let's Chat 📱:</h2>
+  <p align="center">
+<a href="https://www.linkedin.com/in/ishnoor-kaur-11241a201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ishnoor kaur" height="30" width="40" /></a>
+<a href="discordapp.com/users/935791514293002250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Iznoor#2106" height="30" width="40" /></a>
+<a href="https://twitter.com/_ishnoor_kaur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ishnoor_kaur" height="30" width="40" /></a>
+</p>
+  </div>
  <!-- 
 <h3 align="left">Let's Chat 📱</h3>
 

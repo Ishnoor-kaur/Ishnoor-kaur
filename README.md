@@ -38,7 +38,7 @@
 </div>
 
 
-## GitHub Stats 🐙
+## GitHub Stats :octocat:
 <div align="center">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ishnoor-kaur&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=c690e8&icon_color=69b8ae&text_color=feeb95&bg_color=0,000000,011627" alt="Ishnoor's Github Stats">

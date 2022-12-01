@@ -17,8 +17,8 @@
 <br>
 
 - 🤔 I’m looking for help with exploring different fields of computer science. 
-- 🏆 I'm currently `Google Developer Student Clubs Lead` for my University.
-- 🌱 I’m currently learning `Machine learning` using Python.
+- 🏆 I'm currently `Google Developer Student Club Lead` for my University.
+- 🌱 I’m currently exploring `Frontend Web Development`.
 - 🔭 I’m currently pursuing `Bachelors of Technology(Computer Science and Engineering)`.
 - 😄 Pronouns: She/Her
 - ⚡ My random opinion: `Maggi` with sauted vegetables is better than plain `Maggi`.
